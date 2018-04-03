@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/sweet/.vim'
+let g:netrw_dirhist_2='/home/sweet/book'
+let g:netrw_dirhist_3='/home/sweet/config_with_linux'
+let g:netrw_dirhist_4='/home/sweet/config_with_linux/my_config'
